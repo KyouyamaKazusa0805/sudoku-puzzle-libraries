@@ -9,7 +9,7 @@ All puzzle libraries will be separated by two parts:
 * Raw file part
 * JSON file part
 
-The full information of a valid puzzle library will be merged by folders "info" and "libararies". All JSON file names will match the library names.
+The full information of a valid puzzle library will be merged by folder "libararies". All JSON file names will match the library names.
 
 ## Copyright
 

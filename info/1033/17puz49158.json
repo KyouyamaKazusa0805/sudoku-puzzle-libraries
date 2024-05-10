@@ -1,6 +1,0 @@
-{
-	"name": "17-clue puzzle",
-	"description": "A puzzle library that contains a list of puzzles only contain 17 givens.",
-	"remarks": "17 is the possible minimum value that a unique puzzle can reach.",
-	"tags": []
-}

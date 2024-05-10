@@ -1,0 +1,22 @@
+{
+  "$schema": "https://github.com/SunnieShine/sudoku-puzzle-libraries",
+  "author": "Champagne",
+  "data": [
+    {
+      "$culture": 1033,
+      "description": "A puzzle library that contains a list of puzzles only contain 17 givens.",
+      "name": "17-clue puzzle",
+      "remarks": "17 is the possible minimum value that a unique puzzle can reach.",
+      "tags": []
+    },
+    {
+      "$culture": 2052,
+      "description": "一个只有 17 个提示数构成的数独题目。",
+      "name": "17 数数独题",
+      "remarks": "17 数数独是一个唯一解的数独题能达到的最小提示数数量。",
+      "tags": []
+    }
+  ],
+  "link": "http://forum.enjoysudoku.com/release-of-17-clues-scan-v7b-t42416.html",
+  "update": "2024/01/27"
+}
