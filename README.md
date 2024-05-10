@@ -13,4 +13,4 @@ The full information of a valid puzzle library will be merged by folder "libarar
 
 ## Copyright
 
-Some of puzzle libraries are not created and calculated by me, so they will be displayed in JSON files stored in folder "info". All rights are reserved by their own owners, rather than me.
+Some of puzzle libraries are not created and calculated by me, they will be displayed in JSON files. All rights are reserved by their own owners, rather than me.
