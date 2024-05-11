@@ -1,0 +1,26 @@
+{
+  "$schema": "https://github.com/SunnieShine/sudoku-puzzle-libraries",
+  "author": "SunnieShine",
+  "data": [
+    {
+      "$culture": 1033,
+      "description": "A puzzle library that contains BUG+n and its standard 4 types variants.",
+      "name": "BUG + n",
+      "remarks": null,
+      "tags": [
+        "Techniques"
+      ]
+    },
+    {
+      "$culture": 2052,
+      "description": "一个有 BUG + n 各种变型的题库。",
+      "name": "BUG + n",
+      "remarks": null,
+      "tags": [
+        "技巧"
+      ]
+    }
+  ],
+  "link": null,
+  "update": "2023/6/12"
+}
