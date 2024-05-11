@@ -8,7 +8,7 @@
       "name": "BUG + n",
       "remarks": null,
       "tags": [
-        "Techniques"
+        "Technique"
       ]
     },
     {
@@ -21,6 +21,5 @@
       ]
     }
   ],
-  "link": null,
   "update": "2023/6/12"
 }
